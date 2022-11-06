@@ -26,13 +26,21 @@ namespace WpfApp1
         {
             InitializeComponent();
            DoubleAnimation  animation = new DoubleAnimation();
-            animation.From = btn.Width;   //设置动画初始值
-            animation.To = btn.Width -30; //设置动画结束值
+            //animation.From = btn.Width;   //设置动画初始值
+            //animation.To = btn.Width -30; //设置动画结束值
+            animation.By  = btn.Width - 30;  //原来基础上减30
             animation.Duration = TimeSpan.FromSeconds(2);  //动画持续事件
+            animation.RepeatBehavior = new RepeatBehavior(5); //执行五次结束
+            animation.Completed += complete;
 
 
             //当前按钮执行动画 
             btn.BeginAnimation(Button.WidthProperty,animation);
+        }
+
+        private void complete(object sender,EventArgs e)
+        {
+            btn.Content = "动画已完成";
         }
     }
 }

@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "wpf动画基础", "wpf动�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{2157B10C-01FC-4DAF-9E76-77DB24F710DC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "prism", "prism", "{BD442FFE-8135-488D-BE13-8FCE62AE185A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp2", "WpfApp2\WpfApp2.csproj", "{D07781BC-9D09-457F-820E-456920AFE16A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{2157B10C-01FC-4DAF-9E76-77DB24F710DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2157B10C-01FC-4DAF-9E76-77DB24F710DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2157B10C-01FC-4DAF-9E76-77DB24F710DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D07781BC-9D09-457F-820E-456920AFE16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07781BC-9D09-457F-820E-456920AFE16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07781BC-9D09-457F-820E-456920AFE16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07781BC-9D09-457F-820E-456920AFE16A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2157B10C-01FC-4DAF-9E76-77DB24F710DC} = {0D90CA5F-E558-40F4-8448-CC3DDE2FB8F5}
+		{D07781BC-9D09-457F-820E-456920AFE16A} = {BD442FFE-8135-488D-BE13-8FCE62AE185A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AEDA52FE-149B-4E99-81E3-48185B49657D}
