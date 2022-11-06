@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xsl\\Desktop\\wpf学习\\wpf学习\\WpfApp1\\WpfApp1.vbproj": {}
+    "C:\\Users\\xsl\\Desktop\\wpf学习\\wpf学习\\WpfApp1\\WpfApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xsl\\Desktop\\wpf学习\\wpf学习\\WpfApp1\\WpfApp1.vbproj": {
+    "C:\\Users\\xsl\\Desktop\\wpf学习\\wpf学习\\WpfApp1\\WpfApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xsl\\Desktop\\wpf学习\\wpf学习\\WpfApp1\\WpfApp1.vbproj",
+        "projectUniqueName": "C:\\Users\\xsl\\Desktop\\wpf学习\\wpf学习\\WpfApp1\\WpfApp1.csproj",
         "projectName": "WpfApp1",
-        "projectPath": "C:\\Users\\xsl\\Desktop\\wpf学习\\wpf学习\\WpfApp1\\WpfApp1.vbproj",
+        "projectPath": "C:\\Users\\xsl\\Desktop\\wpf学习\\wpf学习\\WpfApp1\\WpfApp1.csproj",
         "packagesPath": "C:\\Users\\xsl\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\xsl\\Desktop\\wpf学习\\wpf学习\\WpfApp1\\obj\\",
         "projectStyle": "PackageReference",
