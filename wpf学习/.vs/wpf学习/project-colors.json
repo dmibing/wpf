@@ -5,7 +5,22 @@
       "ProjectGuid": "a43f625e-e2f6-4aa4-bfec-84d5d359c041",
       "DisplayName": "WpfApp1",
       "ColorIndex": 0
+    },
+    "2157b10c-01fc-4daf-9e76-77db24f710dc": {
+      "ProjectGuid": "2157b10c-01fc-4daf-9e76-77db24f710dc",
+      "DisplayName": "WpfApp1",
+      "ColorIndex": 1
+    },
+    "d07781bc-9d09-457f-820e-456920afe16a": {
+      "ProjectGuid": "d07781bc-9d09-457f-820e-456920afe16a",
+      "DisplayName": "WpfApp2",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

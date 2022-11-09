@@ -32,7 +32,7 @@ namespace WpfApp2.viewmodel
         {
             switch (obj)
             {
-                case "Page1":Body = new Page1(); break;
+                case "Page1": Body = new viewa(); break;
             }
         }
     }

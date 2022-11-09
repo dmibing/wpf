@@ -24,6 +24,6 @@ C:\Users\xsl\Desktop\wpf学习\wpf学习\WpfApp2\obj\Debug\net6.0-windows\ref\Wp
 C:\Users\xsl\Desktop\wpf学习\wpf学习\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.pdb
 C:\Users\xsl\Desktop\wpf学习\wpf学习\WpfApp2\obj\Debug\net6.0-windows\WpfApp2.genruntimeconfig.cache
 C:\Users\xsl\Desktop\wpf学习\wpf学习\WpfApp2\obj\Debug\net6.0-windows\MainView.g.cs
-C:\Users\xsl\Desktop\wpf学习\wpf学习\WpfApp2\obj\Debug\net6.0-windows\view\Page1.g.cs
 C:\Users\xsl\Desktop\wpf学习\wpf学习\WpfApp2\obj\Debug\net6.0-windows\MainView.baml
-C:\Users\xsl\Desktop\wpf学习\wpf学习\WpfApp2\obj\Debug\net6.0-windows\view\Page1.baml
+C:\Users\xsl\Desktop\wpf学习\wpf学习\WpfApp2\obj\Debug\net6.0-windows\view\viewa.g.cs
+C:\Users\xsl\Desktop\wpf学习\wpf学习\WpfApp2\obj\Debug\net6.0-windows\view\viewa.baml

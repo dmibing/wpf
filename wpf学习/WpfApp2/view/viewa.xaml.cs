@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace WpfApp2.view
 {
     /// <summary>
-    /// Page1.xaml 的交互逻辑
+    /// viewa.xaml 的交互逻辑
     /// </summary>
-    public partial class Page1 : Page
+    public partial class viewa : UserControl
     {
-        public Page1()
+        public viewa()
         {
             InitializeComponent();
         }

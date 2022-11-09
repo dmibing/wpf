@@ -7,7 +7,7 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="view\Page1.xaml.cs">
+    <Compile Update="view\viewa.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -15,7 +15,7 @@
     <Page Update="MainView.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="view\Page1.xaml">
+    <Page Update="view\viewa.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
